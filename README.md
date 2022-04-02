@@ -17,7 +17,7 @@ Following the cleansing of the data to omit all math and reading grades from the
   - The % passing overall dropped from 65.2% to 64.9%
 - School Summary:
   - OLD:
-  ![OldSchoSumm1](Resources/School_Summary_Old.png)
+  
   - NEW:
   ![NewSchoSumm](Resources/School_Summary_New_update.png)
   - The school summary is unaffected other than Thomas High School's metrics (please see below)
