@@ -21,7 +21,7 @@ Following the cleansing of the data to omit all math and reading grades from the
   - The % passing overall dropped from 90.95 to 90.63
 - Math and Reading Scores by Grade
   - This summary is unaffected other than the Thomas High School 9th grade scores being empty (NaN)
-- Scores by Spending
+- Scores by Spending:
  - The "$631-645" grouping had minimal changes, but when rounding to the nearest 10th place or whole integer were insignificant
 - Scores by Size
  - The "Medium" school grouping had minimal changes, but when rounding to the nearest 10th place or whole integer were insignificant
