@@ -6,6 +6,10 @@ While helping Maria, the chief data scientist of a city school district, prepare
 ## Results
 Following the cleansing of the data to omit all math and reading grades from the 9th graders at Thomas High School, here is how the summary tables changed:
 - District Summary:
+  - OLD:
+  ![OldDistSumm](Resources/District_Summary_Old.png)
+  - NEW:
+  ![NewDistSumm](Resources/District_Summary_New.png)
   - The average math score dropped from a 79 to 78.9
   - The average reading score remained the same (81.9)
   - The % passing math dropped from 75% to 74.8%
