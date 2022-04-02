@@ -19,7 +19,7 @@ Following the cleansing of the data to omit all math and reading grades from the
   - OLD:
   ![OldSchoSumm](Resources/School_Summary_Old.png)
   - NEW:
-  ![NewSchoSumm](Resources/School_Summary_New.png)
+  ![NewSchoSumm](Resources/School_Summary_New_update.png)
   - The school summary is unaffected other than Thomas High School's metrics (please see below)
 - Thomas High School:
   - The average math score dropped from 83.42 to 83.35
